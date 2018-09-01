@@ -1,0 +1,9 @@
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\bin\Release\Anaglyph3DS.exe
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\bin\Release\Anaglyph3DS.pdb
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\obj\x86\Release\Anaglyph3DS.Form1.resources
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\obj\x86\Release\Anaglyph3DS.Properties.Resources.resources
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\obj\x86\Release\Anaglyph3DS.exe
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\Anaglyph3DS\Anaglyph3DS\obj\x86\Release\Anaglyph3DS.pdb
